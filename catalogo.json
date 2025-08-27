@@ -1,0 +1,22 @@
+{
+  "tipos": [
+    "Entrante",
+    "Saliente"
+  ],
+  "areas": [
+    "VENTAS",
+    "SOPORTE",
+    "TIENDAS CONCEPTO",
+    "COBRANZAS",
+    "TI",
+    "OTROS"
+  ],
+  "motivos": [
+    "Consulta",
+    "Queja",
+    "Extornos",
+    "Seguimiento",
+    "Escalamiento",
+    "Otros"
+  ]
+}

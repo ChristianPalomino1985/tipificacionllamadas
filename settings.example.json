@@ -1,0 +1,8 @@
+﻿{
+  "google_sheets": {
+    "credentials_file": "creds/service_account.json",
+    "sheet_id": "PEGAR_ID_DE_TU_SPREADSHEET",
+    "sheet_tab": "Llamadas_Chats"
+  },
+  "sync": { "mode": "sheets", "poll_secs": 30 }
+}

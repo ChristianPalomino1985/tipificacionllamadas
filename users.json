@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "username": "admin",
+      "role": "ADMIN",
+      "active": true,
+      "must_change_password": false,
+      "password": {
+        "salt": "zkLNMpHM1gTwqVrqXLDIkg==",
+        "hash": "VhOBm1chnaW8pqRkr0eHert/oWh4FP2Bj3FqZiSo7ew=",
+        "iterations": 200000
+      }
+    },
+    {
+      "username": "user",
+      "role": "USER",
+      "active": true,
+      "must_change_password": false,
+      "password": {
+        "salt": "rzg5VXruDBw5T4Hc9qVRYg==",
+        "hash": "DWnMwJ8192zz8poUyUxaiLE2WZpqw69hEGxlQhvzkXo=",
+        "iterations": 200000
+      }
+    },
+    {
+      "username": "sromero",
+      "role": "SUPERVISOR",
+      "active": true,
+      "must_change_password": false,
+      "password": {
+        "salt": "o4tyjsCyb63d2d0/WCtIjw==",
+        "hash": "HYqomLKhz1ZFCmoBvip01I2RJ+WNoPG4zuQYoVBwjV4=",
+        "iterations": 200000
+      }
+    }
+  ]
+}

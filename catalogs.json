@@ -1,0 +1,23 @@
+{
+  "channels": [
+    "WhatsApp Facebook Instagram Webchat Llamada"
+  ],
+  "areas": [
+    "Comercial Soporte Facturación Retenciones"
+  ],
+  "reasons": [
+    "Consulta Reclamo Seguimiento Venta Otro"
+  ],
+  "call_types": [
+    "Entrante",
+    "Saliente"
+  ],
+  "chat_types": [
+    "Chat Entrante",
+    "Chat Saliente"
+  ],
+  "agents": [
+    "agente1 agente2 agente3"
+  ],
+  "states": []
+}
